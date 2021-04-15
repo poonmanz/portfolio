@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - Machine Learning in Python
 - Mini Project
 ### Machine Learning in R
-- Predicting Titanic survivor : A model to predict the survivor of titanic passengers in many factor using various statistical analysis tools. Identified the best salvation utilizing machine learning.
+- Predicting Titanic survivor : A model to predict the survivor of titanic passengers in many factor using various statistical analysis tools. Identified the best salvation utilizing machine learning. >>https://github.com/poonmanz/portfolio/blob/main/IrisFolder/IrisTreeModel.R<<
 - Predicting diabetes : Predicting diabetic patients using logistic regression.
 - Classification flowers species : Using Decision Trees to classify species from sepal and petal.
 ### Machine Learning in Python
