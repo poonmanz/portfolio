@@ -8,3 +8,5 @@ Repository containing portfolio of data science projects completed by me for aca
 - Predicting diabetes : Predicting diabetic patients using logistic regression.
 - classification flowers species : Using Decision Trees to classify species from sepal and petal.
 ### Machine Learning in Python
+- Predicting weather : Predicting weather using Linear regression.
+- 
