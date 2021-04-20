@@ -8,9 +8,9 @@ Repository containing portfolio of data science projects completed by me for aca
 - Predicting Titanic survivor : A model to predict the survivor of titanic passengers in many factor using various statistical analysis tools. Identified the best salvation utilizing machine learning.
 >>https://rpubs.com/poonmanz/757717
 - Predicting diabetes : Predicting diabetic patients using logistic regression.
->>https://github.com/poonmanz/portfolio/blob/main/diabetesFolder/Diabetes(LogisReg).R
+>>https://rpubs.com/poonmanz/757720
 - Classification flowers species : Using Decision Trees to classify species from sepal and petal.
->>https://github.com/poonmanz/portfolio/blob/main/IrisFolder/IrisTreeModel.R
+>>https://rpubs.com/poonmanz/757719
 ### Machine Learning in Python
 - Predicting weather : Predicting weather using Linear regression.
 >>https://github.com/poonmanz/portfolio/blob/main/LinearWeather.ipynb
