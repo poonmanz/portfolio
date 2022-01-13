@@ -23,3 +23,4 @@ Repository containing portfolio of data science projects completed by me for aca
 >>https://github.com/poonmanz/portfolio/blob/main/MiniProjectCars.ipynb
 ### Mini Project(Shinyapps)
 - Real Estate Value Prediction model.
+>>https://peson01.shinyapps.io/test11/
