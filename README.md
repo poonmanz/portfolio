@@ -21,3 +21,5 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Mini Project
 - Predicting cars price : Predicting cars price using GradientBoostingRegressor.
 >>https://github.com/poonmanz/portfolio/blob/main/MiniProjectCars.ipynb
+### Mini Project(Shinyapps)
+- Real Estate Value Prediction model.
